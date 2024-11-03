@@ -1,0 +1,2 @@
+# maqIA
+super nova prediction 
